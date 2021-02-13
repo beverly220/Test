@@ -1,0 +1,7 @@
+warning: can't find squish-pty, so terminal input will fail
+bochs -q
+========================================================================
+                       Bochs x86 Emulator 2.6.11
+              Built from SVN snapshot on January 5, 2020
+                Timestamp: Sun Jan  5 08:36:00 CET 2020
+========================================================================
